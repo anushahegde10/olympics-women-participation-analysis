@@ -24,7 +24,7 @@ Inspired by the performance of women athletes at **Tokyo Olympics 2020**.
 
 ## Key Insights
 
-- Female participation grew from **0.6% in 1906 to 45.5% in 2016** — 
+- Female participation grew from **0.6% in 1906 to 45.5% in 2016**- 
   a 7,062% increase
 - **6 countries** had female athletes in 1900 **200 countries** by 2016
 - **33,981 female athletes** across 207 countries and 53 sport events
