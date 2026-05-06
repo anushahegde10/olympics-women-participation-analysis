@@ -18,9 +18,6 @@ Inspired by the performance of women athletes at **Tokyo Olympics 2020**.
 |------|-------------|
 | `olympics_women_dashboard.jpg` | Full Power BI dashboard screenshot |
 
-> **Note:** The Power BI (.pbix) file exceeds GitHub's 25MB upload limit 
-> and is not included in this repo. The full dashboard is documented via 
-> the screenshot above.
 
 ## Key Insights
 
